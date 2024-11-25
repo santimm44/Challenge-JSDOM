@@ -12,10 +12,6 @@ JavaScript Quiz
 In this quiz you are to make it where you can type in the box number and change the color of the inside of the box to any of the following colors.
 Red ,Blue ,Purple ,Brown and Yellow
 
-## Peer Reviewed By: 
+## Peer Reviewed By: Karen Cadavos
 
-- Comment
-- Comment
-- Comment
-- Comment
-- Comment
+- Looks Great! Good use of default on switch statement to handle invalid value entered
