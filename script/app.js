@@ -70,7 +70,7 @@ function colorBG(color){
         case "yellow":
             return "yellow-bg";
         default:
-            return "white-bg";
+            alert("Not a valid color")
     }
 }
 
